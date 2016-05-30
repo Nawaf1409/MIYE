@@ -1,0 +1,20 @@
+Service ID,Service Name,Service Type,Rate (Dollar per minute),Time
+1,Mineral Bath,-,2.50,60
+2,Mineral Bath,-,2.50,90
+3,Massage,Swedish,3,30
+4,Massage,Swedish,3,60
+5,Massage,Shiatsu,3,30
+6,Massage,Shiatsu,3,60
+7,Massage,Deep Tissue,3,30
+8,Massage,Deep Tissue,3,60
+9,Facial,Normal,2,30
+10,Facial,Collagen,2,60
+11,Facial,Normal,2,30
+12,Specialty,Hot Stone,3.50,60
+13,Specialty,Hot Stone,3.50,90
+14,Specialty,Sugar Scrub,3.50,60
+15,Specialty,Sugar Scrub,3.50,90
+16,Specialty,Herbal Body Wrap,3.50,60
+17,Specialty,Herbal Body Wrap,3.50,90
+18,Specialty,Botanical Mud Wrap,3.50,60
+19,Specialty,Botanical Mud Wrap,3.50,90

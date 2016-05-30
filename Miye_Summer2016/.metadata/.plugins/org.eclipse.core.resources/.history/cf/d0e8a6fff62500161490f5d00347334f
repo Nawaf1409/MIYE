@@ -1,0 +1,85 @@
+import csv
+import time
+import pandas as pd
+import datetime
+import copy
+
+class Menues :
+    def __init__(self):
+        print( )
+        time.sleep(0.1)
+        print( "(1) Customer Information" )
+        time.sleep(0.1)
+        print( "(2) Register Services" )
+        time.sleep(0.1)
+        print( "(3) Quit!" )
+        time.sleep(0.1)
+
+class Customer:
+    custInfo = []
+    chosenService_LIST = []
+
+    """ the main user-interaction loop """
+    while True:
+        print("****************************************************")
+        #allOptions()
+        print()
+        print("****************************************************")
+        time.sleep(0.5)
+        try:            
+            yourChoice = input("Choose an option : ")
+            yourChoice = int(yourChoice)
+        except:
+            yourChoice  = 10000        
+        
+        if yourChoice in [1,2,3]:
+
+            if yourChoice == 1:
+                custInfo = getCustInfo()
+                print()
+                
+            if yourChoice == 2:
+                chosenService_LIST = setServices(custInfo)
+                print()
+                
+            if yourChoice == 3:
+                print()
+                print("****************************************************")
+                break                
+            
+        else:
+            print()
+            time.sleep(0.5)
+            print("Enter a number between 0 to 3")
+            
+    print()
+    time.sleep(0.5)
+    print("****Thank you for using our application****")
+    
+class Servicese:
+    
+    
+class reservation(Customer,Servicese):
+    
+    
+    
+class Bills(reservation):
+    
+    
+class Cancleation(Customer,Servicese):
+
+
+
+
+
+
+
+def main()
+ menue=Menues()
+ 
+ 
+    
+    
+    
+    
+main()

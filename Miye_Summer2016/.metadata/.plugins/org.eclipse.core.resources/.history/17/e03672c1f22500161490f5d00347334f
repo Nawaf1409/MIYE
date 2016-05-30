@@ -1,0 +1,27 @@
+class Customer:
+    
+class Servicese:
+    
+    
+class reservation(Customer,Servicese):
+    
+    
+    
+class Bills(reservation):
+    
+    
+class Cancleation(Customer,Servicese):
+
+
+
+
+
+
+
+def main()
+ 
+    
+    
+    
+    
+main()

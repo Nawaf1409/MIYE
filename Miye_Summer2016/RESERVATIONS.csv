@@ -1,0 +1,8 @@
+Cust Id,First Name,Last Name,Check In Date,Check Out date,Service ID,Service Name,Service Type,Rate (Dollar per minute),Time,Registered DateTime
+1,Nawaf,Alosaimi,5/18/2016,5/25/2016,2,Mineral Bath,-,2.50,90,2016-05-28 08:00:00
+1,Nawaf,Alosaimi,5/18/2016,5/25/2016,10,Facial,Collagen,2,60,2016-06-01 09:00:00
+1,Nawaf,Alosaimi,5/18/2016,5/25/2016,19,Specialty,Botanical Mud Wrap,3.50,90,2016-06-04 10:00:00
+2,ABC,DEF,5/19/2016,5/26/2016,2,Mineral Bath,-,2.50,90,2016-05-29 11:00:00
+2,ABC,DEF,5/19/2016,5/26/2016,10,Facial,Collagen,2,60,2016-06-03 12:00:00
+2,ABC,DEF,5/19/2016,5/26/2016,17,Specialty,Herbal Body Wrap,3.50,90,2016-06-10 15:00:00
+2,ABC,DEF,5/19/2016,5/26/2016,2,Mineral Bath,-,2.50,90,2016-05-29 17:31:00
