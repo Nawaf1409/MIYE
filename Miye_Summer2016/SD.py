@@ -6,7 +6,7 @@ import copy
 	
 def convertListToDf(inputList):
 	"""
-		Converts an list object to a DataFrame
+		Converts an list object to a DataFrame.
 	"""
 	newInputList = inputList[:]
 	header = newInputList[0]
